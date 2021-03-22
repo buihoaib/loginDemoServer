@@ -1,0 +1,9 @@
+{
+  "user": {
+     "id": 1,
+     "firstName": "Trang",
+     "lastName": "Bui",
+     "email": "buihoaib.codecomplete@gmail.com",
+     "password": "123456789"
+  }
+}
